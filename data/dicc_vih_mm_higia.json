@@ -1,0 +1,169 @@
+{ 
+    "Morbimortalidad": [
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Incidencia",
+        "Periodo referencia": "01 febrero 2017 al 31 de enero de 2018",
+        "año publicación": 2018,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de enero de 2018"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Prevalencia",
+        "Periodo referencia": "01 febrero 2017 al 31 de enero de 2018",
+        "año publicación": 2018,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de enero de 2018"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Mortalidad",
+        "Periodo referencia": "01 febrero 2017 al 31 de enero de 2018",
+        "año publicación": 2018,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de enero de 2018"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Incidencia",
+        "Periodo referencia": "01 febrero 2018 al 31 de enero de 2019",
+        "año publicación": 2019,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de julio de 2018.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Prevalencia",
+        "Periodo referencia": "01 febrero 2018 al 31 de enero de 2019",
+        "año publicación": 2019,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de julio de 2018.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Mortalidad",
+        "Periodo referencia": "01 febrero 2018 al 31 de enero de 2019",
+        "año publicación": 2019,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de julio de 2018.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Incidencia",
+        "Periodo referencia": "01 febrero 2019 al 31 de enero de 2020",
+        "año publicación": 2020,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2019.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Prevalencia",
+        "Periodo referencia": "01 febrero 2019 al 31 de enero de 2020",
+        "año publicación": 2020,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2019.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Mortalidad",
+        "Periodo referencia": "01 febrero 2019 al 31 de enero de 2020",
+        "año publicación": 2020,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2019.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Incidencia",
+        "Periodo referencia": "01 febrero 2020 al 31 de enero de 2021",
+        "año publicación": 2021,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2020.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Prevalencia",
+        "Periodo referencia": "01 febrero 2020 al 31 de enero de 2021",
+        "año publicación": 2021,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2020.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Mortalidad",
+        "Periodo referencia": "01 febrero 2020 al 31 de enero de 2021",
+        "año publicación": 2021,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2019 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2020.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Incidencia",
+        "Periodo referencia": "01 febrero 2021 al 31 de enero de 2022",
+        "año publicación": 2022,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2021.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2021"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Prevalencia",
+        "Periodo referencia": "01 febrero 2021 al 31 de enero de 2022",
+        "año publicación": 2022,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2021.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2021"
+        },
+        {
+        "Cohorte": "VIH",
+        "Indicador": "Mortalidad",
+        "Periodo referencia": "01 febrero 2021 al 31 de enero de 2022",
+        "año publicación": 2022,
+        "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+        "Multiplicador demografico": "x 100.000 habitantes",
+        "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+        "multiplicador aseguramiento": "x 100.000 afiliados",
+        "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 31 de Julio de 2021.\nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2021"
+        }
+    ]
+}
