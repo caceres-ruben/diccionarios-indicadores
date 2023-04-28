@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.3.6/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.3.6/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    
+    <style>
+            body {
+              color: black;
+              
+            }
+            
+            h1 {
+              color: black;
+              text-align: center;
+            }
+            
+            p {
+              font-family: verdana;
+              font-size: 10px;
+            }
+            #tabla {
+                font-family: Arial, Helvetica, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+                font-size: 10px;
+            }
+
+            #tabla td, #tabla th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #tabla tr:nth-child(even){background-color: #f2f2f2;}
+            #tabla tr:hover {background-color: #ddd;}
+
+            #tabla th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: center;
+                background-color: #04AA6D;
+                color: white;
+            }
+    </style>
+</head>
+<body>
+    <h1>Indicadores de Morbimortalidad</h1>
+    <br>
+
+    <table id="tabla" class="display hover table-striped" style="width:80%">
+        <thead>
+            <tr>
+                <th>Cohorte</th>
+                <th>Indicador</th>
+                <th>Periodo de referencia</th>
+                <th>Año publicación</th>
+                <th>Desagregación geográfica</th>
+                <th>Multiplicador demografico</th>
+                <th>Desagregación por aseguramiento</th>
+                <th>Multiplicador aseguramiento</th>
+                <th>Nota técnica</th>
+            </tr>
+        </thead>
+         <tfoot>
+            <tr>
+                <th>Cohorte</th>
+                <th>Indicador</th>
+                <th>Periodo de referencia</th>
+                <th>Año publicación</th>
+                <th>Desagregación geográfica</th>
+                <th>Multiplicador demografico</th>
+                <th>Desagregación por aseguramiento</th>
+                <th>Multiplicador aseguramiento</th>
+                <th>Nota técnica</th>
+            </tr>
+        </tfoot>
+    </table>
+
+    <script>
+        $(document).ready(function () {
+            // DataTable
+            var table = $('#tabla').DataTable({
+                dom: 'Bfrtip',
+                buttons: [
+                    'copyHtml5',
+                    'excelHtml5',
+                    'csvHtml5',
+                ],
+                columnDefs: [{
+                    "targets": [2, 4, 5, 6, 7, 8],
+                    "searchable": false
+                    
+                }],
+                lengthMenu: [
+                    [5, 10, 50, -1],
+                    [5, 10, 50, 'All'],
+                ],
+                "ajax": {
+                    "url": 'data/dicc_vih_mm_higia.json',
+                    "dataSrc": "Morbimortalidad"
+                },
+                columns: [
+                    { data: 'Cohorte' },
+                    { data: 'Indicador' },
+                    { data: 'Periodo referencia' },
+                    { data: "año publicación" },
+                    { data: "Desagregación geográfica" },
+                    { data: "Multiplicador demografico" },
+                    { data: "Desagregación por aseguramiento" },
+                    { data: "multiplicador aseguramiento" },
+                    { data: "Nota técnica" },
+                    ],
+                initComplete: function () {
+                // Setup - add a text input to each footer cell
+                    $('#tabla tfoot th').not(":eq(2),:eq(4),:eq(5),:eq(6),:eq(7),:eq(8)").each( function () {
+                        var title = $('#tabla tfoot th').eq( $(this).index() ).text();
+                        if(title!=""){
+                            $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+                        }
+                    });
+
+                    table.columns().eq( 0 ).each( function ( colIdx ) {
+                        if (colIdx == 2 || colIdx == 4 || colIdx == 5 || colIdx == 6 || colIdx == 7 || colIdx == 8) return;
+                        $('input', table.column( colIdx ).footer() ).on( 'keyup change', function () {
+                            table
+                                .column( colIdx )
+                                .search( this.value )
+                                .draw();
+                        });
+                    });
+                }, 
+
+            });
+        });
+    </script>
+</body>
+</html>
