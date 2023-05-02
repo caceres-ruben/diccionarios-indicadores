@@ -1,0 +1,136 @@
+{
+    "Morbimortalidad": [
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Incidencia",
+          "Periodo referencia": "01 julio 2017 al 30 de junio de 2018",
+          "año publicación": 2018,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2018."
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Prevalencia",
+          "Periodo referencia": "01 julio 2017 al 30 de junio de 2018",
+          "año publicación": 2018,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100 afiliados ≥ 18 años",
+          "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2018."
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Mortalidad",
+          "Periodo referencia": "01 julio 2017 al 30 de junio de 2018",
+          "año publicación": 2018,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 de junio de 2018."
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Incidencia",
+          "Periodo referencia": "01 julio 2018 al 30 de junio de 2019",
+          "año publicación": 2019,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 diciembre de 2018. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Prevalencia",
+          "Periodo referencia": "01 julio 2018 al 30 de junio de 2019",
+          "año publicación": 2019,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 diciembre de 2018. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Mortalidad",
+          "Periodo referencia": "01 julio 2018 al 30 de junio de 2019",
+          "año publicación": 2019,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la población proyectada por el DANE 2018 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 30 diciembre de 2018. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Incidencia",
+          "Periodo referencia": "01 julio 2019 al 30 de junio de 2020",
+          "año publicación": 2020,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la promedio de población proyectada por el DANE 2019 y 2020 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2019. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Prevalencia",
+          "Periodo referencia": "01 julio 2019 al 30 de junio de 2020",
+          "año publicación": 2020,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la promedio de población proyectada por el DANE 2019 y 2020 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2019. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Mortalidad",
+          "Periodo referencia": "01 julio 2019 al 30 de junio de 2020",
+          "año publicación": 2020,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utlizando la promedio de población proyectada por el DANE 2019 y 2020 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2019. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Incidencia",
+          "Periodo referencia": "01 julio 2020 al 30 de junio de 2021",
+          "año publicación": 2021,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utilizando la promedio de población proyectada por el DANE 2020 y 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2020. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Prevalencia",
+          "Periodo referencia": "01 julio 2020 al 30 de junio de 2021",
+          "año publicación": 2021,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utilizando la promedio de población proyectada por el DANE 2020 y 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2020. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        },
+        {
+          "Cohorte": "Artritis",
+          "Indicador": "Mortalidad",
+          "Periodo referencia": "01 julio 2020 al 30 de junio de 2021",
+          "año publicación": 2021,
+          "Desagregación geográfica": "Nacional, Departamental, Regional y Municipal",
+          "Multiplicador demografico": "x 100.000 habitantes ≥ 18 años",
+          "Desagregación por aseguramiento": "Régimen, Renglón y EAPB",
+          "multiplicador aseguramiento": "x 100.000 afiliados ≥ 18 años",
+          "Nota técnica": "\"Ajuste por método directo, utilizando la promedio de población proyectada por el DANE 2020 y 2021 y población afiliada a las entidades reportadas a la BDUA del MSPS con corte a 01 de Enero de 2020. \nPara ajustar las estimaciones nacionales, se utilizó como población de referencia la proyectada por Naciones Unidas para Latinoamérica y el Caribe para el año 2020.\""
+        }
+    ]
+}
