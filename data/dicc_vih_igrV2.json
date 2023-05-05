@@ -1,0 +1,21 @@
+{
+    "IGR":[
+        {
+        "Tipo": "Indicador de gestion del riesgo",
+        "Codigo": 1,
+        "Indicador": "Proporcion de gestantes tamizadas para VIH ",
+        "Numerador": "Numero gestantes en los ultimos 6 meses, cuya diferencia entre la fecha de corte y prueba presuntiva para infeccion por VIH sea menor o igual a 484 dias o sea menor o igual a 291 dias.",
+        "Denominador": "Numero de gestantes en los ultimos 6 meses reportadas",
+        "Cota_sup": "? 95%",
+        "Cota_med": " ? 85 a < 95%",
+        "Cota_inf": "< 85%",
+        "Medida": "Por 100",
+        "Periodicidad": "Anual",
+        "Geografia": "Nacional, Departamental, Regional y Municipal",
+        "Aseguramiento": "Regimen, Renglon y EAPB",
+        "Medido_desde": 2018,
+        "Vigente": "No",
+        "Nota": ""
+        }
+    ]
+}
