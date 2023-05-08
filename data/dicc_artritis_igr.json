@@ -2,7 +2,7 @@
     "Artritis_IGR":[
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 1,
+      "Codigo": 1,
       "Indicador": "Oportunidad de atención por especialista en semanas (tiempo desde el inicio de síntomas hasta la primera atención por especialista). ",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Sumatoria del número de semanas transcurridas entre la fecha de inicio de los síntomas hasta la fecha de la primera visita con el especialista. ",
@@ -20,7 +20,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 2,
+      "Codigo": 2,
       "Indicador": "Oportunidad de diagnóstico en semanas (tiempo desde el inicio de los síntomas hasta la fecha del diagnóstico). ",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Sumatoria del número de semanas transcurridas entre la fecha de inicio de los síntomas hasta la fecha de diagnóstico. ",
@@ -38,7 +38,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 3,
+      "Codigo": 3,
       "Indicador": "Oportunidad de tratamiento en semanas (tiempo entre el inicio de síntomas hasta el primer tratamiento con DMARD). ",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Sumatoria del número de semanas transcurridas entre la fecha de inicio de los síntomas hasta la fecha de inicio del primer tratamiento con DMARD. ",
@@ -56,7 +56,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 4,
+      "Codigo": 4,
       "Indicador": "Proporción de pacientes en quienes se realizó anticuerpos anti-citrulina y el factor reumatoide  IgM dentro del proceso de diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó antiCCP y FR durante el proceso diagnóstico.",
@@ -74,7 +74,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 5,
+      "Codigo": 5,
       "Indicador": "Proporción de pacientes en quienes se realiza PCR y VSG al momento del diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó PCR y VSG al momento del diagnóstico.",
@@ -92,7 +92,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 6,
+      "Codigo": 6,
       "Indicador": "Proporción de pacientes en quienes se evaluó daño estructural por AR al diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó radiografía de manos y radiografía de pies durante el proceso diagnóstico.",
@@ -110,7 +110,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 7.1,
+      "Codigo": 7.1,
       "Indicador": "Proporción de pacientes en quienes se realizó tamizaje para tuberculosis previo al inicio de DMARD biológicos o sintéticos con objetivo terapéutico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en quienes se hizo tamizaje para TB previo al inicio de biológicos o sintéticos con objetivo terapéutico.",
@@ -128,7 +128,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 7.2,
+      "Codigo": 7.2,
       "Indicador": "Proporción de pacientes en quienes se realizó tamizaje para tuberculosis previo al inicio de DMARD biológicos o sintéticos con objetivo terapéutico.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en quienes se hizo tamizaje para TB previo al inicio de biológicos o sintéticos con objetivo terapéutico.",
@@ -146,7 +146,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 8.1,
+      "Codigo": 8.1,
       "Indicador": "Proporción de pacientes en quienes se inicia DMARD como tratamiento para AR (cobertura de DMARD).",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en quienes se inicia DMARD como tratamiento. ",
@@ -164,7 +164,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 8.2,
+      "Codigo": 8.2,
       "Indicador": "Proporción de pacientes en quienes se inicia DMARD como tratamiento para AR (cobertura de DMARD).",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en quienes se inicia DMARD como tratamiento. ",
@@ -182,7 +182,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 9.1,
+      "Codigo": 9.1,
       "Indicador": "Proporción de pacientes que reciben simultáneamente metotrexate y ácido fólico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR con metotrexate y ácido fólico simultáneo. ",
@@ -200,7 +200,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 9.2,
+      "Codigo": 9.2,
       "Indicador": "Proporción de pacientes que reciben simultáneamente metotrexate y ácido fólico.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR con metotrexate y ácido fólico simultáneo. ",
@@ -218,7 +218,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 10.1,
+      "Codigo": 10.1,
       "Indicador": "Proporción de pacientes que asisten a terapia ocupacional o terapia física.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR que asisten a terapia ocupacional o a terapia física. ",
@@ -236,7 +236,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 10.2,
+      "Codigo": 10.2,
       "Indicador": "Proporción de pacientes que asisten a terapia ocupacional o terapia física.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR que asisten a terapia ocupacional o a terapia física. ",
@@ -254,7 +254,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 11.1,
+      "Codigo": 11.1,
       "Indicador": "Proporción de pacientes en quienes se realiza DAS28 al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR con DAS28 en los últimos 6 meses.",
@@ -272,7 +272,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 11.2,
+      "Codigo": 11.2,
       "Indicador": "Proporción de pacientes en quienes se realiza DAS28 al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR con DAS28 en los últimos 6 meses.",
@@ -290,7 +290,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 12.1,
+      "Codigo": 12.1,
       "Indicador": "Proporción de pacientes en quienes se realiza HAQ al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR con HAQ en los últimos 6 meses.",
@@ -308,7 +308,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 12.2,
+      "Codigo": 12.2,
       "Indicador": "Proporción de pacientes en quienes se realiza HAQ al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR con HAQ en los últimos 6 meses.",
@@ -326,7 +326,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 13.1,
+      "Codigo": 13.1,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron remisión de la enfermedad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en remisión. ",
@@ -344,7 +344,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 13.2,
+      "Codigo": 13.2,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron remisión de la enfermedad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en remisión. ",
@@ -362,7 +362,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 14.1,
+      "Codigo": 14.1,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron baja actividad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en baja actividad de la enfermedad.",
@@ -380,7 +380,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 14.2,
+      "Codigo": 14.2,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron baja actividad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en baja actividad de la enfermedad.",
@@ -398,7 +398,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 4,
+      "Codigo": 4,
       "Indicador": "Proporción de pacientes en quienes se realizó anticuerpos anti-citrulina y el factor reumatoide  IgM dentro del proceso de diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó antiCCP y FR durante el proceso diagnóstico.",
@@ -416,7 +416,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 5,
+      "Codigo": 5,
       "Indicador": "Proporción de pacientes en quienes se realiza PCR y VSG al momento del diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó PCR y VSG al momento del diagnóstico.",
@@ -434,7 +434,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 6,
+      "Codigo": 6,
       "Indicador": "Proporción de pacientes en quienes se evaluó daño estructural por AR al diagnóstico.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos nuevos con diagnóstico de AR en quienes se realizó radiografía de manos y radiografía de pies durante el proceso diagnóstico.",
@@ -452,7 +452,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 11.1,
+      "Codigo": 11.1,
       "Indicador": "Proporción de pacientes en quienes se realiza DAS28 al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR con DAS28 en los últimos 6 meses.",
@@ -470,7 +470,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 11.2,
+      "Codigo": 11.2,
       "Indicador": "Proporción de pacientes en quienes se realiza DAS28 al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR con DAS28 en los últimos 6 meses.",
@@ -488,7 +488,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 12.1,
+      "Codigo": 12.1,
       "Indicador": "Proporción de pacientes en quienes se realiza HAQ al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR con HAQ en los últimos 6 meses.",
@@ -506,7 +506,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 12.2,
+      "Codigo": 12.2,
       "Indicador": "Proporción de pacientes en quienes se realiza HAQ al menos una vez en los últimos 6 meses.",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR con HAQ en los últimos 6 meses.",
@@ -524,7 +524,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 13.1,
+      "Codigo": 13.1,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron remisión de la enfermedad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en remisión. ",
@@ -542,7 +542,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 13.2,
+      "Codigo": 13.2,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron remisión de la enfermedad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en remisión. ",
@@ -560,7 +560,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 14.1,
+      "Codigo": 14.1,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron baja actividad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Incidente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en baja actividad de la enfermedad.",
@@ -578,7 +578,7 @@
     },
     {
       "Tipo": "Gestión del riesgo",
-      "Código": 14.2,
+      "Codigo": 14.2,
       "Indicador": "Proporción de pacientes en tratamiento para AR que lograron baja actividad (medida por DAS28 de los últimos 6 meses).",
       "Poblacion_objetivo": "Prevalente",
       "Numerador": "Número de casos con diagnóstico de AR en tratamiento por 6 meses o más con DMARD que se encuentran en baja actividad de la enfermedad.",
